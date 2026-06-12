@@ -2,9 +2,9 @@
 
 # Hi 👋, I'm Om Chaudhari
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Cloud+Enthusiast;DevOps+%26+Learner;Linux+Agentic Ai;Computer+Science+Engineering+Student;Future+Cloud+Engineer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+Enthusiast;DevOps+Learner;Agentic+AI+Explorer;Linux+Enthusiast;Computer+Science+Student" />
 
-### ☁️ Cloud Enthusiast | 🤖 AI & ML Learner | 🐧 Linux Explorer
+### ☁️ Cloud Enthusiast | 🤖 Agentic AI Explorer | 🐧 Linux Enthusiast
 
 <img src="https://komarev.com/ghpvc/?username=omchaudhari365&label=Profile%20Views&color=0e75b6&style=flat" />
 
@@ -12,29 +12,57 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
 - ☁️ Passionate about Cloud Computing
-- 🤖 Agentic Ai
+- 🤖 Exploring Agentic AI Systems
 - 🐧 Linux Enthusiast
-- 💻 Learning Dev
+- 💻 Learning Development & DevOps
 - 🚀 Building projects and improving technical skills
 - 🌱 Always learning and experimenting with new technologies
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,aws,gcp,python,java,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,c,linux,bash,git,github,vscode,aws,gcp&theme=dark&perline=5" />
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+# 📚 Currently Learning
+
+- Agentic AI
+- Cloud Engineering
+- Linux Administration
+- DevOps Fundamentals
+- Python Development
+
+---
+
+# 📜 Certifications
+
+- Google Cloud Skills Boost
+- Oracle Cloud Learning Path
+- Future Cloud Certifications
+
+---
+
+# 🎯 Goals for 2026
+
+- ☁️ Earn Cloud Certifications
+- 🤖 Build AI & Agentic AI Projects
+- 🐧 Improve Linux Skills
+- 🚀 Learn DevOps Tools
+- 🌍 Contribute to Open Source
+
+---
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -46,7 +74,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -56,7 +84,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -66,7 +94,7 @@
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
 <div align="center">
 
@@ -76,24 +104,39 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🚀 Featured Areas
 
-<div align="center">
+- Cloud Computing
+- Agentic AI
+- Linux
+- DevOps
+- Python Development
+- Open Source Learning
 
-<a href="https://www.linkedin.com/in/om-chaudhari0365">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/om-chaudhari0365" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
 
-<a href="https://www.credly.com/users/omchaudhari/badges">
-<img src="https://img.shields.io/badge/Credly-Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.credly.com/users/omchaudhari/badges" target="_blank">
+  <img src="https://cdn.simpleicons.org/credly/FF6B00" height="55" />
 </a>
 
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### 💡 "Thank You"
+### 💡 Building Skills Today, Creating Solutions Tomorrow
+
+⭐ If you like my work, consider following my journey.
 
 </div>
