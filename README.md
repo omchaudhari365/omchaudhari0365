@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Om Chaudhari
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Cloud+Enthusiast;AI+%26+ML+Learner;Linux+Explorer;Computer+Science+Engineering+Student;Future+Cloud+Engineer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Cloud+Enthusiast;DevOps+%26+Learner;Linux+Agentic Ai;Computer+Science+Engineering+Student;Future+Cloud+Engineer;Always+Learning+New+Technologies" />
 
 ### ☁️ Cloud Enthusiast | 🤖 AI & ML Learner | 🐧 Linux Explorer
 
@@ -16,9 +16,9 @@
 
 - 🎓 B.Tech Computer Science Engineering Student
 - ☁️ Passionate about Cloud Computing
-- 🤖 Learning Artificial Intelligence & Machine Learning
+- 🤖 Agentic Ai
 - 🐧 Linux Enthusiast
-- 💻 Exploring Software Development
+- 💻 Learning Dev
 - 🚀 Building projects and improving technical skills
 - 🌱 Always learning and experimenting with new technologies
 
@@ -28,37 +28,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,linux,bash,git,github,vscode,aws,gcp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,aws,gcp,python,java,c&theme=dark" />
 
 </div>
-
----
-
-## 📚 Currently Learning
-
-- Artificial Intelligence
-- Machine Learning
-- Cloud Engineering
-- Linux Administration
-- DevOps Fundamentals
-
----
-
-## 📜 Certifications
-
-- Google Cloud Skills Boost
-- Oracle Cloud Learning Path
-- Future Cloud Certifications
-
----
-
-## 🎯 Goals for 2026
-
-- ☁️ Earn Cloud Certifications
-- 🤖 Build AI Projects
-- 🐧 Improve Linux Skills
-- 🚀 Learn DevOps Tools
-- 🌍 Contribute to Open Source
 
 ---
 
@@ -104,17 +76,6 @@
 
 ---
 
-## 🚀 Featured Areas
-
-- Cloud Computing
-- Artificial Intelligence
-- Machine Learning
-- Linux
-- Python Development
-- Open Source Learning
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -133,6 +94,6 @@
 
 <div align="center">
 
-### 💡 "Exploring AI, Cloud, and Software Development one project at a time."
+### 💡 "Thank You"
 
 </div>
