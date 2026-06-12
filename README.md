@@ -28,37 +28,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,linux,bash,git,github,vscode,aws,gcp&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode,aws,gcp,python,java,c&theme=dark&perline=5" />
 
 </div>
-
----
-
-# 📚 Currently Learning
-
-- Agentic AI
-- Cloud Engineering
-- Linux Administration
-- DevOps Fundamentals
-- Python Development
-
----
-
-# 📜 Certifications
-
-- Google Cloud Skills Boost
-- Oracle Cloud Learning Path
-- Future Cloud Certifications
-
----
-
-# 🎯 Goals for 2026
-
-- ☁️ Earn Cloud Certifications
-- 🤖 Build AI & Agentic AI Projects
-- 🐧 Improve Linux Skills
-- 🚀 Learn DevOps Tools
-- 🌍 Contribute to Open Source
 
 ---
 
@@ -103,40 +75,23 @@
 </div>
 
 ---
-
-# 🚀 Featured Areas
-
-- Cloud Computing
-- Agentic AI
-- Linux
-- DevOps
-- Python Development
-- Open Source Learning
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/om-chaudhari0365" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
 </a>
-
 &nbsp;&nbsp;&nbsp;
-
 <a href="https://www.credly.com/users/omchaudhari/badges" target="_blank">
   <img src="https://cdn.simpleicons.org/credly/FF6B00" height="55" />
 </a>
-
 </p>
 
 ---
-
 <div align="center">
 
 ### 💡 Building Skills Today, Creating Solutions Tomorrow
 
-⭐ If you like my work, consider following my journey.
+Thank you.
 
 </div>
